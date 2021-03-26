@@ -1,19 +1,8 @@
-# random-profiles
+# User Search
+![](login-signup.gif)
 
-## Project setup
-```
-npm install
-```
+## Description
+A small app that demostrates API familiarity and filtering via user input.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tools
+VS Code, Vue 3, and Randomuser.me.
