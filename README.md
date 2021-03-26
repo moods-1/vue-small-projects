@@ -1,5 +1,5 @@
 # User Search
-![](login-signup.gif)
+![](user-search.gif)
 
 ## Description
 A small app that demostrates API familiarity and filtering via user input.
