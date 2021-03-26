@@ -2,4 +2,4 @@
 ![](login-signup.gif)
 
 ## Tools
-VS Code, VUE 3, Vue Router, and Font Awesome.
+VS Code, Vue 3, Vue Router, and Font Awesome.
