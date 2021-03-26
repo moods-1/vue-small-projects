@@ -4,6 +4,7 @@
 
 <script>
 export default {
+emits: ["user"],
 methods: {
     userFilter(e) {
       const { value } = e.target
